@@ -7,7 +7,7 @@ export default function WalletBar(userAddress, network, avatar) {
         <div className="flex flex-col px-5 gap-3 justify-center items-center">
           <p className="font-normal text-sm font">Hello</p>
           <div className="flex items-center">
-            {avatar == undefined ? (
+            {avatar != undefined ? (
               <div>
                 <img
                   src="https://i.imgur.com/UhV7H97.jpeg"
