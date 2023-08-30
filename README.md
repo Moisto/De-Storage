@@ -24,7 +24,9 @@ Destorage is a cutting-edge Web3 decentralized storage web application designed 
     
 
 ## Deployed App
-Public url: https://de-storage.brimble.app/
+**Public url:** https://de-storage.brimble.app/  
+**Arbitrum Contract:** [Here](https://goerli.arbiscan.io/address/0x8e82985ee184b5a90fea68f3329b247e33f36fe5)   
+**Avalanche Contract:** [Here](https://testnet.snowtrace.io/token/0xcd5d51a0378f4060611f304d664035b5a50fcb7d)
 
 ### How it works
 * Connect your Metamask Wallet and connect to Avalanche Network or Arbitrum Network.
@@ -96,6 +98,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Team
 
-[Toheeb Alade](https://github.com/Horlarmmy)
-[Israel Adeyemi](https://github.com/gb0g0)
-[Mohammed](https://github.com/FeeqCodes)
+- [Toheeb Alade](https://github.com/Horlarmmy) 
+- [Israel Adeyemi](https://github.com/gb0g0) 
+- [Mohammed](https://github.com/FeeqCodes)
