@@ -10,15 +10,23 @@ export default function WalletBar(userAddress, network, avatar) {
             {avatar != undefined ? (
               <div>
                 <img
-                  src="https://i.imgur.com/UhV7H97.jpeg"
+                  src={avatar}
                   alt="your avater"
-                  width="40px"
-                  height="40px"
+                  width="30px"
+                  height="30px"
                   className="rounded-full"
                 ></img>
               </div>
             ) : (
-              <></>
+              <div>
+                <img
+                  src="https://i.imgur.com/UhV7H97.jpeg"
+                  alt="your avater"
+                  width="30px"
+                  height="30px"
+                  className="rounded-full"
+                ></img>
+              </div>
             )}
             <p className="font-normal font ml-2 ">
               {userAddress.userAddress}
