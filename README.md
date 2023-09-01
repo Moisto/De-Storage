@@ -101,3 +101,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [Toheeb Alade](https://github.com/Horlarmmy) 
 - [Israel Adeyemi](https://github.com/gb0g0) 
 - [Mohammed](https://github.com/FeeqCodes)
+
+## Smart Contract
+-[Contract Code](https://github.com/Moisto/Smartcontract)
